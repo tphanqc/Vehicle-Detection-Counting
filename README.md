@@ -1,4 +1,4 @@
-# Video Analytic : Vehicle-Detection-Counting
+# Video Analytics : Vehicle-Detection-Counting
 
 Welcome to the Video Analytic repository for the vehicle-Detection-Counting challenges . This repo contains the definition of the environment where your code submissions will run. 
 
