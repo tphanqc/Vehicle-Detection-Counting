@@ -62,7 +62,12 @@ conda activate py-cpu
 
 ## (1) Problem description
 
-<mark>lorem ipsum</mark>
+<mark>Traffic Counting is crucial for every traffic project. Traffic datas are collected from different sources : api, IoT, flat file, videos etc... They are transformed, analysed via differnt data process developed by our team. We're looking for a talented Data scentist to join our team to work for a new project video analytic. 
+You have an excellent skill in this domain and have great experience in Deep Learning, Object Detection, Tracking and Counting, then we have a great place for you in this project. 
+
+We want to learn more about you via the following topics. Please do not spend more than 1 day for each topic. We expect to have a small model runing for topic 1, topic 2 and 3 are bonus. 
+
+</mark>
 
  - Topic 1: Object detection 
    
