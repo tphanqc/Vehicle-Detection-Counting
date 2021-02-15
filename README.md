@@ -9,7 +9,7 @@ Welcome to the Video Analytic repository for the vehicle-Detection-Counting chal
  - [Problem description](#1-problem-description)
  - [Data resources](#2-data-resources)
 ### [Submission](#submission)
-   - [Making a submission](#making-a-submission)
+   - [Making a submission](#submission-your-solution)
  
 ----
 
