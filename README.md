@@ -82,7 +82,7 @@ Hundreds annotated pictures are provided in the "datasets/" folder. (please use 
 
 A set of pictures that you can use to test model in "datasets/predict". We'll use a similar set of picture to test your submission. 
 
-A set of 3 videos (/videos : use download link to download video) provided for testing your model of topic 2 and 3. The topics are optional/bonus for the submission. For the topics, we expect a minium description of your approach to creat a model for the topic.
+A set of 3 videos (/videos : use download link to download videos) provided for testing your model of topic 2 and 3. The topics are optional/bonus for the submission. For the topics, we expect a minium description of your approach to creat a model for the topic.
 
 
 ### Formats
