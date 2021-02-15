@@ -103,8 +103,8 @@ Other Two-Axle, Four-Tire Single Unit Vehicles – All two-axle, four-tire, vehi
 Buses – All vehicles manufactured as traditional passenger-carrying buses with two axles and six tires or three or more axles. This category includes only traditional buses (including school buses) functioning as passenger-carrying vehicles. Modified buses should be considered to be a truck and should be appropriately classified.
 ## Submission your solution
 - Topic 1 : Please submit all instructions and your script so we can test them locally. 
-- Topic 2,3 : If you complete these topics, please submit all instructions and your script. We expect a description of your approach to do the topics if you don't have time to finish finish them.
-- Under /submission folder create a folder with your name and push all your submission there : 
+- Topic 2,3 : Please submit all instructions and your script if you complete the topic in a limit time. We expect a minimum description of your approach for the topics even you don't have time to complete the topic.
+- Under /submission folder create a folder with your name and push all your submission that folder : 
   - ex : Thomas_phan/
     - /topic1
     - /topic2
