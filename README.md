@@ -56,7 +56,7 @@ We want to learn more about you via the following topics. Please do not spend mo
    
  - Topic 2 (optional): Counting number of cars, bus and trucks appeared in videos
    
-   - Useful folder for this topic: videos
+   - Useful folder for this topic: videos (please use the download link to download video for your tests)
 
    - The output expected of this topic is: 
      - a video with drawing boxes identifying cars, bus and trucks;
@@ -78,11 +78,11 @@ We want to learn more about you via the following topics. Please do not spend mo
 
 ## (2) Data resources
 
-Hundreds annotated pictures are provided in the "datasets/annotation" folder.
+Hundreds annotated pictures are provided in the "datasets/" folder. (please use download link to download these datasets)
 
 A set of pictures that you can use to test model in "datasets/predict". We'll use a similar set of picture to test your submission. 
 
-A set of 3 videos (/videos) provided for testing your model of topic 2 and 3. The topics are optional/bonus for the submission. For the topics, we expect a minium description of your approach to creat a model for the topic.
+A set of 3 videos (/videos : use download link to download video) provided for testing your model of topic 2 and 3. The topics are optional/bonus for the submission. For the topics, we expect a minium description of your approach to creat a model for the topic.
 
 
 ### Formats
