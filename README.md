@@ -63,7 +63,7 @@ We want to learn more about you via the following topics. Please do not spend mo
    
      - a separate .txt file where you mention the number of cars and trucks detected in the videos associated with the corresponding video filename (cars, trucks and buses counted and associated video name on one line, as many lines in the file as the number of videos you predicted on)
    
-     - the python script for predicting on new videos
+     - a python script for predicting on new videos
    
  - Topic 3 (optional): count number of cars in North Bound direction and right turn at the intersection ( you can assign a direction in each leg by yourself)
 
@@ -74,7 +74,7 @@ We want to learn more about you via the following topics. Please do not spend mo
    
      - a separate .txt file where you mention a number of cars, trucks and bus detected in the videos associated with the corresponding video filename (cars, trucks and buses counted and associated video name on one line, as many lines in the file as the number of videos you predicted on)
    
-     - the python script for predicting on new videos
+     - a python script for predicting on new videos
 
 ## (2) Data resources
 
@@ -103,7 +103,12 @@ Other Two-Axle, Four-Tire Single Unit Vehicles – All two-axle, four-tire, vehi
 Buses – All vehicles manufactured as traditional passenger-carrying buses with two axles and six tires or three or more axles. This category includes only traditional buses (including school buses) functioning as passenger-carrying vehicles. Modified buses should be considered to be a truck and should be appropriately classified.
 ## Submission your solution
 - Topic 1 : Please submit all instructions and your script so we can test them locally. 
-- Topic 2,3 : If you complete these topics, please submit all instructions and your script. We expect a description of your approach to do the topics if you don't have time to finish finish them.      
+- Topic 2,3 : If you complete these topics, please submit all instructions and your script. We expect a description of your approach to do the topics if you don't have time to finish finish them.
+- Under /submission folder create a folder with your name and push all your submission there : 
+  - ex : Thomas_phan/
+    - /topic1
+    - /topic2
+    - /topic3      
 
 To submit your solution, please follow these steps to submit your code : 
 
